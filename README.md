@@ -1,1 +1,1 @@
-# Excel-Sales-Finance Analytics
+# Excel Sales and Finance Analytics
