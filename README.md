@@ -1,5 +1,5 @@
 # Excel: Sales and Finance Analytics
-This repository contains a comprehensive Sales and Finance Analytics project for AtliQ Hardwares, developed using Excel and data visualization techniques. The project analyzes net sales, profitability, gross margins, product performance, and market trends to provide actionable insights for business decision-making.
+
 
 # 📊 Sales & Finance Analytics Report  
 
